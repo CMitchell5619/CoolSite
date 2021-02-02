@@ -38,7 +38,7 @@
 
 .maincontent {
     text-align: left;
-    margin: 100px 200px 100px 200px;
+    margin: 100 400 100 400;
 }
 
 .bodyTitle {
@@ -58,7 +58,7 @@
 
 .another {
     position: absolute;
-    right: -260;
+    right: -265;
     width: 140;
     top: 35;
     text-align: justify;
